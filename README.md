@@ -1,17 +1,10 @@
 
 
-### Un poco mas de mi...  
 
-```javascript
-const habilidades = {
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
-  tools: [React, Redux, Node, Styled-Components, Jest],
-  architecture: ["microservices", "event-driven"],
+<p align="center">
 
 
-}
-```
-
+<h1 align="center">SM POS</h1>
 <img src="https://sm-software-colombia.github.io/sm/img/pos100.png" > 
 
 
