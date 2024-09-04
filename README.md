@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**sm-software-colombia/sm-software-colombia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Un poco mas de mi...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const habilidades = {
+  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
+  tools: [React, Redux, Node, Styled-Components, Jest],
+  architecture: ["microservices", "event-driven"],
+
+
+}
+```
+
+<img src="https://elprimo0909.github.io/SitioWeb_elPrimo/img/1702915738844.jpg" > 
+
+
