@@ -13,7 +13,7 @@
 
 <img src="https://sm-software-colombia.github.io/sm/img/restaurantes100.png" > 
 
-<h1 align="center">SM RESTAURANTES</h1>
+<h1 align="center">SM SERVICIOS TECNICOS</h1>
 
-<img src="https://sm-software-colombia.github.io/sm/img/restaurantes100.png" >
+<img src="https://sm-software-colombia.github.io/sm/img/tecnico100.png" >
 </p>
