@@ -12,3 +12,8 @@
 <h1 align="center">SM RESTAURANTES</h1>
 
 <img src="https://sm-software-colombia.github.io/sm/img/restaurantes100.png" > 
+
+<h1 align="center">SM RESTAURANTES</h1>
+
+<img src="https://sm-software-colombia.github.io/sm/img/restaurantes100.png" >
+</p>
