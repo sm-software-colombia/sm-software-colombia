@@ -11,7 +11,7 @@
 
 <h1 align="center">SM RESTAURANTES</h1>
 
-<img  align="center" height="500" width="800" src="https://sm-software-colombia.github.io/sm/img/restaurantes100.png" > 
+<img  align="center" height="500" width="900" src="https://sm-software-colombia.github.io/sm/img/restaurantes100.png" > 
 
 <h1 align="center">SM SERVICIOS TECNICOS</h1>
 
